@@ -17,3 +17,5 @@ this is my first text file modified my M.wazir Ali
 this is my first text file modified my M.wazir Ali
 this is my first text file modified my M.wazir Ali
 this is my first text file modified my M.wazir Ali
+
+conflict has been resolved
